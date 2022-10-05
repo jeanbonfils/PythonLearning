@@ -7,6 +7,9 @@ print(city[0])
 print("#Printing second index of the string")
 print(city[1])
 
+print("#Printing 3rd last index of the string")
+print(city[-3])
+
 print("#Printing 2nd last index of the string")
 print(city[-2])
 
